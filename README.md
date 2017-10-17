@@ -1,0 +1,2 @@
+# svcet
+school Management system
